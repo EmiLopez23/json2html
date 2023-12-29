@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-json2html": "^3.0.0"
+    "node-json2html": "^3.0.0",
+    "puppeteer": "^21.6.1"
   }
 }
